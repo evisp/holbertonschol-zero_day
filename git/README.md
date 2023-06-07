@@ -1,2 +1,1 @@
-# Your Repo
-# My Repo
+# Doing something stupid with Git
